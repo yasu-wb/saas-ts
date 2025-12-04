@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint",
+    "ionutvmi.path-autocomplete",
+    "esbenp.prettier-vscode",
+    "mosapride.zenkaku",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.auto-rename-tag"
+  ]
+}
