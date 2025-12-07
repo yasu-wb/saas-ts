@@ -20,6 +20,7 @@
     "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,md}\""
   },
   "devDependencies": {
+    "@saas/config": "workspace:*",
     "prettier": "^3.5.3",
     "turbo": "latest"
   }

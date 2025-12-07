@@ -8,7 +8,7 @@
   // 保存時のアクション
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
-    "source.organizeImports": "never"
+    "source.organizeImports": false
   },
 
   // ESLint設定
